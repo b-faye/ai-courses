@@ -56,7 +56,7 @@ Bienvenue dans le cours "Ma√Ætrise de la Programmation en C" ! Ce cours est con√
 - Socket programming in C
 - Simple client-server communication
 
-# Chapter 11: Embedded C Programming
+## Chapter 11: Embedded C Programming
 - Introduction to embedded systems
 - Writing C code for microcontrollers
 - Communication protocols in embedded systems
