@@ -2,43 +2,80 @@
 
 ## Description
 
-This repository serves as a comprehensive resource for learning and teaching various programming languages and tools commonly used in the field of computer science and artificial intelligence. The courses provided cover the following topics:
+Welcome to the "Deep Learning with Keras" course! This course will guide you through the fundamentals of deep learning using Keras, a powerful and user-friendly high-level neural networks API. Whether you're new to deep learning or want to refine your skills, we'll cover key concepts and practical applications using Keras.
 
-**French:** Ce référentiel sert de ressource complète pour l'apprentissage et l'enseignement de divers langages de programmation et outils couramment utilisés dans le domaine de l'informatique et de l'intelligence artificielle. Les cours proposés couvrent les sujets suivants :
+Bienvenue dans le cours "Apprentissage Profond avec Keras" ! Ce cours vous guidera à travers les fondamentaux de l'apprentissage profond en utilisant Keras, une API puissante et conviviale pour les réseaux neuronaux. Que vous soyez novice en apprentissage profond ou que vous souhaitiez affiner vos compétences, nous aborderons des concepts clés et des applications pratiques avec Keras.
 
-- C
-- C++
-- Java
-- Python
-- R
-- TensorFlow
-- PyTorch
-- Keras
-- Artificial Intelligence (IA)
+## Chapter 1: Introduction to Deep Learning and Keras
+- Overview of deep learning
+- Introduction to neural networks
+- Setting up the Keras environment
 
-Each directory within the repository corresponds to a specific language or technology, containing relevant course materials, examples, and exercises.
+## Chapter 2: Building Neural Networks with Keras
+- Sequential and functional model architectures
+- Layers, activations, and loss functions
+- Model compilation and training
 
-**French:** Chaque répertoire dans le référentiel correspond à un langage ou une technologie spécifique, contenant des documents de cours pertinents, des exemples et des exercices.
-## Table of Contents
+## Chapter 3: Convolutional Neural Networks (CNNs) with Keras
+- Understanding convolutional layers
+- Pooling layers and spatial reduction
+- Building and training a CNN model
 
-1. [C](https://github.com/b-faye/presentations/tree/main/C)
-2. [C++](https://github.com/b-faye/presentations/tree/main/C++)
-3. [Java](https://github.com/b-faye/presentations/tree/main/Java)
-4. [Python](https://github.com/b-faye/presentations/tree/main/Python)
-5. [R](https://github.com/b-faye/presentations/tree/main/R)
-6. [TensorFlow](https://github.com/b-faye/presentations/tree/main/Tensorflow)
-7. [PyTorch](https://github.com/b-faye/presentations/tree/main/PyTorch)
-8. [Keras](https://github.com/b-faye/presentations/tree/main/Keras)
-9. [Artificial Intelligence (IA)](https://github.com/b-faye/presentations/tree/main/IA)
+## Chapter 4: Recurrent Neural Networks (RNNs) with Keras
+- Basics of sequential data
+- Introduction to RNNs and LSTM networks
+- Building and training an RNN model
 
-## Structure
+## Chapter 5: Transfer Learning with Keras
+- Leveraging pre-trained models
+- Fine-tuning for specific tasks
+- Using transfer learning in Keras applications
 
-The structure of each language or tool folder is organized as follows:
+## Chapter 6: Hyperparameter Tuning in Keras
+- Importance of hyperparameters
+- Techniques for hyperparameter tuning
+- Grid search and random search with Keras
 
-- **Lectures:** Contains lecture notes and presentations.
-- **Exercises:** Includes practical exercises and hands-on coding assignments.
-- **Examples:** Demonstrates code examples to reinforce learning.
-- **Resources:** Supplementary materials, helpful links, and recommended readings.
+## Chapter 7: Keras Callbacks and Custom Layers
+- Introduction to callbacks
+- Creating and using custom callback functions
+- Implementing custom layers in Keras models
+
+## Chapter 8: Keras and TensorFlow 2.0 Integration
+- Overview of TensorFlow 2.0
+- Keras as the official high-level API in TensorFlow
+- Migrating from Keras standalone to TensorFlow 2.0
+
+## Chapter 9: Deploying Keras Models
+- Saving and loading Keras models
+- Model conversion and interoperability
+- Deploying models in production environments
+
+## Chapter 10: Advanced Topics in Keras
+- Introduction to Keras Functional API
+- Handling imbalanced datasets
+- Advanced model evaluation and interpretation
+
+## Chapter 11: Keras for Natural Language Processing (NLP)
+- Text preprocessing with Keras
+- Building and training NLP models
+- Using Keras for sentiment analysis and text classification
+
+## Chapter 12: Computer Vision with Keras (CV)
+- Introduction to computer vision tasks
+- Image classification with Keras
+- Object detection using Keras
+- Image segmentation with Keras models
+
+## Chapter 13: Case Studies and Projects
+- Real-world applications of Keras
+- Hands-on projects and exercises
+
+## Chapter 14: Future Trends in Keras and Deep Learning
+- Overview of recent developments
+- Discussion on Keras's role in the deep learning ecosystem
+- Community and resources for continued learning
+
 
 ## How to Use
 

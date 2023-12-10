@@ -2,43 +2,78 @@
 
 ## Description
 
-This repository serves as a comprehensive resource for learning and teaching various programming languages and tools commonly used in the field of computer science and artificial intelligence. The courses provided cover the following topics:
+Welcome to the "Mastering C Programming" course! This course is designed to equip you with the essential skills to become proficient in the C programming language. Whether you're a beginner or looking to deepen your understanding, we'll cover key concepts and practical applications of C.
 
-**French:** Ce référentiel sert de ressource complète pour l'apprentissage et l'enseignement de divers langages de programmation et outils couramment utilisés dans le domaine de l'informatique et de l'intelligence artificielle. Les cours proposés couvrent les sujets suivants :
+Bienvenue dans le cours "Maîtrise de la Programmation en C" ! Ce cours est conçu pour vous fournir les compétences essentielles pour devenir compétent dans le langage de programmation C. Que vous soyez débutant ou que vous cherchiez à approfondir vos connaissances, nous aborderons des concepts clés et des applications pratiques du langage C.
 
-- C
-- C++
-- Java
-- Python
-- R
-- TensorFlow
-- PyTorch
-- Keras
-- Artificial Intelligence (IA)
+## Chapter 1: Introduction to C Programming
+- Overview of the C language
+- Setting up a C development environment
+- Writing and compiling your first C program
 
-Each directory within the repository corresponds to a specific language or technology, containing relevant course materials, examples, and exercises.
+## Chapter 2: Basic C Programming Concepts
+- Variables, data types, and operators
+- Control flow: loops and decision-making
+- Functions and modular programming
 
-**French:** Chaque répertoire dans le référentiel correspond à un langage ou une technologie spécifique, contenant des documents de cours pertinents, des exemples et des exercices.
-## Table of Contents
+## Chapter 3: Arrays and Pointers in C
+- Understanding arrays and their applications
+- Working with pointers
+- Dynamic memory allocation and deallocation
 
-1. [C](https://github.com/b-faye/presentations/tree/main/C)
-2. [C++](https://github.com/b-faye/presentations/tree/main/C++)
-3. [Java](https://github.com/b-faye/presentations/tree/main/Java)
-4. [Python](https://github.com/b-faye/presentations/tree/main/Python)
-5. [R](https://github.com/b-faye/presentations/tree/main/R)
-6. [TensorFlow](https://github.com/b-faye/presentations/tree/main/Tensorflow)
-7. [PyTorch](https://github.com/b-faye/presentations/tree/main/PyTorch)
-8. [Keras](https://github.com/b-faye/presentations/tree/main/Keras)
-9. [Artificial Intelligence (IA)](https://github.com/b-faye/presentations/tree/main/IA)
+## Chapter 4: Structures and Unions in C
+- Creating and using structures
+- Unions and their role in C
+- Complex data structures
 
-## Structure
+## Chapter 5: File Handling in C
+- Reading from and writing to files
+- Sequential and random access file operations
+- Error handling in file operations
 
-The structure of each language or tool folder is organized as follows:
+## Chapter 6: Advanced C Programming Concepts
+- Bitwise operations
+- Enumerations and typedef
+- Recursion and its applications
 
-- **Lectures:** Contains lecture notes and presentations.
-- **Exercises:** Includes practical exercises and hands-on coding assignments.
-- **Examples:** Demonstrates code examples to reinforce learning.
-- **Resources:** Supplementary materials, helpful links, and recommended readings.
+## Chapter 7: C Standard Library
+- Overview of the C Standard Library
+- Commonly used functions and headers
+- Input/output functions and string manipulation
+
+## Chapter 8: Debugging and Testing in C
+- Debugging techniques
+- Unit testing in C
+- Best practices for writing maintainable code
+
+## Chapter 9: Data Structures and Algorithms in C
+- Overview of fundamental data structures
+- Common algorithms and their implementations in C
+- Performance considerations
+
+## Chapter 10: Network Programming in C
+- Basics of network programming
+- Socket programming in C
+- Simple client-server communication
+
+# Chapter 11: Embedded C Programming
+- Introduction to embedded systems
+- Writing C code for microcontrollers
+- Communication protocols in embedded systems
+
+## Chapter 12: Advanced Topics
+- Multithreading and parallel programming in C
+- Understanding volatile and atomic variables
+- Real-time programming considerations
+
+## Chapter 13: Case Studies and Projects
+- Real-world applications of C
+- Hands-on projects and exercises
+
+## Chapter 14: Future Trends in C Programming
+- Overview of recent developments
+- Discussion on C's role in modern software development
+- Community and resources for continued learning
 
 ## How to Use
 
