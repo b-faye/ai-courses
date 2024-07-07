@@ -64,7 +64,7 @@ Bienvenue dans le cours "Fondamentaux de l'Apprentissage Profond" ! Ce cours vis
 - Real-world examples and success stories
 - Hands-on projects and exercises
 
-## Chapter 14: Future Trends in Deep Learning
+## Chapter 15: Future Trends in Deep Learning
 - Overview of recent developments
 - Emerging areas and directions in deep learning
 - Opportunities and challenges in the field
