@@ -35,27 +35,32 @@ Bienvenue dans le cours "Fondamentaux de l'Apprentissage Profond" ! Ce cours vis
 - Variational Autoencoders (VAEs)
 - Dimensionality reduction and feature learning
 
-## Chapter 9: Transfer Learning and Fine-Tuning
+## Chapter 9: Segmentation and Detection
+- Semantic segmentation
+- Instance segmentation
+- Object detection
+
+## Chapter 10: Transfer Learning and Fine-Tuning
 - Leveraging pre-trained models
 - Fine-tuning for specific tasks
 - Practical considerations in transfer learning
 
-## Chapter 10: Natural Language Processing (NLP) with Deep Learning
+## Chapter 11: Natural Language Processing (NLP) with Deep Learning
 - Word embeddings (e.g., Word2Vec, GloVe)
 - Sequence models for NLP (e.g., LSTM, GRU)
 - Attention mechanisms and transformers
 
-## Chapter 11: Reinforcement Learning
+## Chapter 12: Reinforcement Learning
 - Introduction to reinforcement learning
 - Deep Q-Learning
 - Policy gradients and actor-critic models
 
-## Chapter 12: Ethical Considerations in Deep Learning
+## Chapter 13: Ethical Considerations in Deep Learning
 - Bias and fairness in machine learning models
 - Ethical challenges and responsible AI
 - Regulatory considerations in deploying deep learning models
 
-## Chapter 13: Case Studies and Practical Applications
+## Chapter 14: Case Studies and Practical Applications
 - Real-world examples and success stories
 - Hands-on projects and exercises
 
