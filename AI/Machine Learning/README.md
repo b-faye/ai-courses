@@ -12,16 +12,24 @@ Bienvenue dans le cours "Maîtrise de l'Apprentissage Automatique" ! Ce cours es
 - Applications and use cases of machine learning
 
 ## Chapter 2: Supervised Learning
-- Basics of supervised learning
-- Linear regression and logistic regression
-- Support Vector Machines (SVM)
-- Decision Trees and Random Forests
+- Introduction to supervised Learning
+- Linear Models
+-  Support Vector Machines
+- Nearest Neighbors
+- Decision Trees
+- Ensemble Methods
+- Gassian Processes
+- Naive Bayes
+- Discriminant Analysis
 
 ## Chapter 3: Unsupervised Learning
 - Introduction to unsupervised learning
-- K-Means clustering
-- Hierarchical clustering
-- Dimensionality reduction techniques (PCA)
+- Clustering
+- Dimensionality Reduction
+- Decomposition
+- Outlier Detection
+- Density Estimation
+- Nearest Neighbors
 
 ## Chapter 4: Evaluation and Validation
 - Training and testing datasets
