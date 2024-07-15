@@ -14,7 +14,7 @@ Bienvenue dans le cours "Maîtrise de l'Apprentissage Automatique" ! Ce cours es
 ## Chapter 2: Supervised Learning
 - Introduction to supervised Learning
 - Linear Models
--  Support Vector Machines
+- Support Vector Machines
 - Nearest Neighbors
 - Decision Trees
 - Ensemble Methods
@@ -22,19 +22,16 @@ Bienvenue dans le cours "Maîtrise de l'Apprentissage Automatique" ! Ce cours es
 - Naive Bayes
 - Discriminant Analysis
 
+
 ## Chapter 3: Unsupervised Learning
 - Introduction to unsupervised learning
 - Clustering
 - Dimensionality Reduction
-- Decomposition
-- Outlier Detection
-- Density Estimation
-- Nearest Neighbors
 
 ## Chapter 4: Evaluation and Validation
 - Training and testing datasets
 - Cross-validation
-- Performance metrics (accuracy, precision, recall, F1 score)
+- Performance metrics
 - Overfitting and underfitting
 
 ## Chapter 5: Feature Engineering
@@ -43,58 +40,53 @@ Bienvenue dans le cours "Maîtrise de l'Apprentissage Automatique" ! Ce cours es
 - Feature scaling and normalization
 - Creating new features
 
-## Chapter 6: Ensemble Learning
-- Introduction to ensemble methods
-- Bagging and boosting
-- Stacking models
-- Application of ensemble methods
 
-## Chapter 7: Neural Networks and Deep Learning
+## Chapter 6: Neural Networks and Deep Learning
 - Basics of neural networks
 - Feedforward and backpropagation
 - Activation functions
 - Introduction to deep learning
 
-## Chapter 8: Natural Language Processing (NLP)
+## Chapter 7: Natural Language Processing (NLP)
 - Basics of NLP
 - Text preprocessing
 - Sentiment analysis
 - Named Entity Recognition (NER)
 
-## Chapter 9: Recommendation Systems
+## Chapter 8: Recommendation Systems
 - Collaborative filtering
 - Content-based filtering
 - Hybrid recommendation systems
 - Evaluating recommendation systems
 
-## Chapter 10: Time Series Analysis
+## Chapter 9: Time Series Analysis
 - Time series data and its characteristics
 - Forecasting techniques
 - ARIMA models
 - Long Short-Term Memory (LSTM) networks for time series
 
-## Chapter 11: Reinforcement Learning
+## Chapter 10: Reinforcement Learning
 - Introduction to reinforcement learning
 - Markov Decision Processes (MDPs)
 - Q-learning and policy iteration
 - Deep reinforcement learning
 
-## Chapter 12: Machine Learning Pipelines
+## Chapter 11: Machine Learning Pipelines
 - Building end-to-end machine learning pipelines
 - Data preprocessing and feature extraction
 - Model training and evaluation
 - Deployment considerations
 
-## Chapter 13: Ethical Considerations in Machine Learning
+## Chapter 12: Ethical Considerations in Machine Learning
 - Bias and fairness in machine learning models
 - Ethical challenges and responsible AI
 - Regulatory considerations in deploying machine learning models
 
-## Chapter 14: Case Studies and Practical Applications
+## Chapter 13: Case Studies and Practical Applications
 - Real-world examples and success stories
 - Hands-on projects and exercises
 
-## Chapter 15: Future Trends in Machine Learning
+## Chapter 14: Future Trends in Machine Learning
 - Overview of recent developments
 - Emerging areas and directions in machine learning
 - Opportunities and challenges in the field
