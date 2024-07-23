@@ -57,9 +57,7 @@ Welcome to the "Mastering TensorFlow" course! In this chapter, we'll begin our j
 - Data and Model Parallelism (Multi-GPU and distributed training) 
 - Introduction to TensorFlow Extended (TFX)
 
-## Chapter 11: TensorFlow and Cloud
-- Running TensorFlow on cloud platforms (e.g., Google Cloud, AWS, Azure)
-- Serving models using cloud services
+## Chapter 11: TensorFlow and Flask
 
 ## Chapter 12: Advanced Topics
 - Introduction to AutoML with TensorFlow
