@@ -50,23 +50,21 @@ Welcome to the "Mastering TensorFlow" course! In this chapter, we'll begin our j
 
 ## Chapter 9: TensorFlow Lite
 - Introduction to TensorFlow Lite
-- Model conversion for mobile and edge devices
+- Model conversion for mobile and edge devices (e.g., quantization, pruning, etc)
 - Optimizing models for deployment on resource-constrained devices
 
-## Chapter 10: TensorFlow Extended (TFX)
-- Introduction to TensorFlow Extended
-- Building end-to-end machine learning pipelines
-- Model versioning and deployment in production
+## Chapter 10: Parallelism and TensorFlow Extended 
+- Data and Model Parallelism (Multi-GPU and distributed training) 
+- Introduction to TensorFlow Extended (TFX)
 
 ## Chapter 11: TensorFlow and Cloud
 - Running TensorFlow on cloud platforms (e.g., Google Cloud, AWS, Azure)
-- Distributed training with TensorFlow
 - Serving models using cloud services
 
 ## Chapter 12: Advanced Topics
 - Introduction to AutoML with TensorFlow
 - TensorFlow Probability
-- Hyperparameter tuning with TensorFlow
+- Hyperparameter tuning with TensorFlow (keras tuner)
 
 ## Chapter 13: Case Studies and Projects
 - Real-world applications of TensorFlow
