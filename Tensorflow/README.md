@@ -45,7 +45,6 @@ Welcome to the "Mastering TensorFlow" course! In this chapter, we'll begin our j
 - Data augmentation
 
 ## Chapter 8: TensorFlow Hub and Serving
-- Deploying TensorFlow models
 - Intoduction to TensorFlow Hub
 - Introduction to TensorFlow Serving
 
