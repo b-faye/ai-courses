@@ -45,15 +45,18 @@ Bienvenue dans le cours "Maîtrise de PyTorch" ! Dans ce cours, vous plongerez d
 - Data preprocessing techniques
 - Data augmentation
 
-## Chapter 8: Deploying PyTorch Models
-- Deploying PyTorch models
-- Integration with web frameworks
-- Deployment on cloud services
+## Chapter 8: torchvision library
+- Datasets
+- Transforms
+- Models
 
-## Chapter 9: PyTorch and Cloud
-- Running PyTorch on cloud platforms (e.g., AWS, Google Cloud, Azure)
-- Distributed training with PyTorch
-- Cloud services for model deployment
+## Chapter 9: torchaudio library
+- Datasets
+- Transforms
+- Models
+
+## Chapter 10: Parallelism
+ - Data and Model Parallelism (Multi-GPU and distributed training)
 
 ## Chapter 10: Advanced Topics
 - AutoML with PyTorch
