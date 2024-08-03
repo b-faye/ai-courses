@@ -58,16 +58,16 @@ Bienvenue dans le cours "Maîtrise de PyTorch" ! Dans ce cours, vous plongerez d
 ## Chapter 10: Parallelism
  - Data and Model Parallelism (Multi-GPU and distributed training)
 
-## Chapter 10: Advanced Topics
+## Chapter 11: Advanced Topics
 - AutoML with PyTorch
 - PyTorch Lightning
 - Hyperparameter tuning with PyTorch
 
-## Chapter 11: Case Studies and Projects
+## Chapter 12: Case Studies and Projects
 - Real-world applications of PyTorch
 - Hands-on projects and exercises
 
-## Chapter 12: Future Trends in PyTorch
+## Chapter 13: Future Trends in PyTorch
 - Overview of recent developments
 - Discussion on PyTorch's future direction
 - Community and resources for continued learning
