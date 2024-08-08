@@ -51,9 +51,9 @@ Bienvenue dans le cours "Apprentissage Profond avec Keras" ! Ce cours vous guide
 ## Chapter 9: Keras for Natural Language Processing (NLP)
 -  Text preprocessing with Keras
 -  Using Keras for sentiment analysis and text classification
--  Keras NLP library**
-  * Classification with BERT
-  * Generation with GPT
+-  Keras NLP library
+    * Classification with BERT
+    * Generation with GPT
 
 ## Chapter 10: Computer Vision with Keras (CV)
 - Introduction to computer vision tasks
