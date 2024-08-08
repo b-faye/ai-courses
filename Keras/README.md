@@ -40,6 +40,8 @@ Bienvenue dans le cours "Apprentissage Profond avec Keras" ! Ce cours vous guide
 - Introduction to callbacks
 - Creating and using custom callback functions
 - Implementing custom layers in Keras models
+- Implementing custom models in Keras
+
 
 ## Chapter 8: Keras and TensorFlow 2.0 Integration
 - Overview of TensorFlow 2.0
