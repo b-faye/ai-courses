@@ -48,32 +48,22 @@ Bienvenue dans le cours "Apprentissage Profond avec Keras" ! Ce cours vous guide
 - Keras as the official high-level API in TensorFlow
 - Migrating from Keras standalone to TensorFlow 2.0
 
-## Chapter 9: Deploying Keras Models
-- Saving and loading Keras models
-- Model conversion and interoperability
-- Deploying models in production environments
-
-## Chapter 10: Advanced Topics in Keras
-- Introduction to Keras Functional API
-- Handling imbalanced datasets
-- Advanced model evaluation and interpretation
-
-## Chapter 11: Keras for Natural Language Processing (NLP)
+## Chapter 9: Keras for Natural Language Processing (NLP)
 - Text preprocessing with Keras
 - Building and training NLP models
 - Using Keras for sentiment analysis and text classification
 
-## Chapter 12: Computer Vision with Keras (CV)
+## Chapter 10: Computer Vision with Keras (CV)
 - Introduction to computer vision tasks
 - Image classification with Keras
 - Object detection using Keras
 - Image segmentation with Keras models
 
-## Chapter 13: Case Studies and Projects
+## Chapter 11: Case Studies and Projects
 - Real-world applications of Keras
 - Hands-on projects and exercises
 
-## Chapter 14: Future Trends in Keras and Deep Learning
+## Chapter 12: Future Trends in Keras and Deep Learning
 - Overview of recent developments
 - Discussion on Keras's role in the deep learning ecosystem
 - Community and resources for continued learning
